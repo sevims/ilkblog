@@ -25,7 +25,7 @@ SECRET_KEY = 'c7)nk0!e9(i06&fkljqw*1@v(r3wh(88%rym5-316p=o_ug&6a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sevims.pythonanywhere.com']
 
 
 # Application definition
